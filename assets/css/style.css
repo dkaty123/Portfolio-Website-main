@@ -350,6 +350,7 @@ header .navbar ul li a:hover {
   min-height: 80vh; /* Use min-height instead of height */
   overflow: hidden;  /* Optional: hides any overflowed content */
   display: flex;
+  min-height: fit-content;
   flex-direction: column;
 }
 
@@ -552,7 +553,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 60vh;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -653,13 +654,17 @@ header .navbar ul li a:hover {
     flex-wrap: wrap;
   }
 }
+
 /* education media queries ends*/
 /* education section ends */
 
 /* work section starts */
+
+
 .work {
-  /* background: #010124; */
+   background: #010124; 
   background: linear-gradient(to bottom, #000031, #00002c);
+  min-height: 60vh;
 }
 .work h2 {
   color: #fff;
@@ -680,8 +685,9 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: 30rem;
+  height: 40rem;
 }
+
 .work .box-container .box img {
   height: 100%;
   width: 100%;
@@ -781,6 +787,7 @@ header .navbar ul li a:hover {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
+  min-height: 80vh;
 }
 .experience .timeline::after {
   content: "";
@@ -794,7 +801,7 @@ header .navbar ul li a:hover {
   z-index: -2;
 }
 .experience .container {
-  padding: 10px 40px;
+  padding: 20px 40px;
   position: relative;
   background-color: inherit;
   width: 50%;
