@@ -1,0 +1,43 @@
+[
+  {
+    "name": "MarineMatch",
+    "desc": "Android app built in Java for identifying 60+ different types of ocean animals and fish species using image classification.",
+    "image": "instagrammern",
+    "category": "marinematch",
+    "links": {
+      "view": "https://dkaty123.github.io/MarineMatchWeb/",
+      "code": "https://github.com/dkaty123/MarineMatch"
+    }
+  },
+  {
+    "name": "CodeDocAI",
+    "desc": "AI-powered tool built with Python to automatically generate code documentation for various programming languages.",
+    "image": "flipkartmern",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/dkaty123/CodeDocAI",
+      "code": "https://github.com/dkaty123/CodeDocAI"
+    }
+  },
+  {
+    "name": "facebook-bot",
+    "desc": "Desktop application built with TypeScript to automatically search Facebook Marketplace for deals and notify users.",
+    "image": "resumegen",
+    "category": "desktop",
+    "links": {
+      "view": "https://github.com/dkaty123/facebook-bot",
+      "code": "https://github.com/dkaty123/facebook-bot"
+    }
+  },
+  {
+    "name": "Sorting Algorithm Visualizer",
+    "desc": "Interactive web app built with React to visualize sorting algorithms like QuickSort, MergeSort, BubbleSort, etc.",
+    "image": "reactprojects",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/dkaty123/Sorting-Algorithm-Visualizer",
+      "code": "https://github.com/dkaty123/Sorting-Algorithm-Visualizer"
+    }
+  }
+
+]
