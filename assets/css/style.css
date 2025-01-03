@@ -553,7 +553,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 60vh;
+  min-height: 90vh;
 }
 .education .qoute {
   font-size: 1.5rem;
