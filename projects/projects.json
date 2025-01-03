@@ -31,12 +31,12 @@
   },
   {
     "name": "Sorting Algorithm Visualizer",
-    "desc": "Interactive web app built with React to visualize sorting algorithms like QuickSort, MergeSort, BubbleSort, etc.",
+    "desc": "Algorithm Visualizer is an interactive way and platform that visualize the algorithms in four main domain i.e. Trie data structure, Binary Search Tree, Path Finding and Sort Visual algorithm.",
     "image": "reactprojects",
     "category": "react",
     "links": {
-      "view": "https://github.com/dkaty123/Sorting-Algorithm-Visualizer",
-      "code": "https://github.com/dkaty123/Sorting-Algorithm-Visualizer"
+      "view": "https://dkaty123.github.io/Algorithm-Visualizer-main/",
+      "code": "https://github.com/dkaty123/Algorithm-Visualizer-main"
     }
   }
   
