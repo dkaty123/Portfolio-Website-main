@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "CodeDocAI",
+    "name": "CodeScriber",
     "desc": "AI-powered tool built with Python to automatically generate code documentation for various programming languages.",
     "image": "flipkartmern",
     "category": "python",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "facebook-bot",
+    "name": "QuickScrape",
     "desc": "Desktop application built with TypeScript to automatically search Facebook Marketplace for deals and notify users.",
     "image": "resumegen",
     "category": "desktop",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "Sorting Algorithm Visualizer",
+    "name": "AlgoVisualizer",
     "desc": "Algorithm Visualizer is an interactive way and platform that visualize the algorithms in four main domain i.e. Trie data structure, Binary Search Tree, Path Finding and Sort Visual algorithm.",
     "image": "reactprojects",
     "category": "react",
