@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+Portfolio website built using HTML5, CSS3, JavaScript, and jQuery
 
 <a href="https://animated-chebakia-a49f7c.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
