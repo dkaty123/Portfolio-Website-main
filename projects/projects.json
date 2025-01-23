@@ -38,9 +38,46 @@
       "view": "https://dkaty123.github.io/Algorithm-Visualizer-main/",
       "code": "https://github.com/dkaty123/Algorithm-Visualizer-main"
     }
+  },
+  {
+    "name": "PollutionUnwrapped",
+    "desc": "Dash app which visualizes global plastic pollution from 200+ countries across the world in a single map",
+    "image": "dash",
+    "category": "dash",
+    "links": {
+      "view": "https://github.com/dkaty123/PollutionUnwrapped-main",
+      "code": "https://github.com/dkaty123/PollutionUnwrapped-main"
+    }
+  },
+  {
+    "name": "EcoPlastic",
+    "desc": "App that uses AI to counter plastic pollution; built in Android Studio using Kotlin",
+    "image": "ecoplastic",
+    "category": "ecoplastic",
+    "links": {
+      "view": "https://github.com/dkaty123/EcoPlastic",
+      "code": "https://github.com/dkaty123/EcoPlastic"
+    }
+  },
+  {
+    "name": "GrooveCentral",
+    "desc": "A fully responsive web music player using vanilla javascript; listen to my top 5 songs!",
+    "image": "music",
+    "category": "groovecentral",
+    "links": {
+      "view": "https://dkaty123.github.io/groove-central/",
+      "code": "https://github.com/dkaty123/groove-central"
+    }
+  },
+  {
+    "name": "TalkTuahTherapist",
+    "desc": "AI-powered mental health therapy app designed with privacy through the use of Etherium Blockchain encryption",
+    "image": "talktuah",
+    "category": "talktuah",
+    "links": {
+      "view": "https://talktuahtherapist.co/",
+      "code": "https://github.com/dkaty123/TalkTuahTherapist"
+    
   }
-  
-
-  
-
+ }
 ]

@@ -664,7 +664,7 @@ header .navbar ul li a:hover {
 .work {
    background: #010124; 
   background: linear-gradient(to bottom, #000031, #00002c);
-  min-height: 60vh;
+  min-height: 110vh;
 }
 .work h2 {
   color: #fff;
@@ -676,7 +676,7 @@ header .navbar ul li a:hover {
 .work .box-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 3rem;
   margin: 2rem;
 }
 .work .box-container .box {
