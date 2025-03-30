@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-Note add projects
+Note add projects (add in stacks of 4)
 
 <a href="https://dev-katyal.netlify.app" target="_blank">**Visit Now** 🚀</a>
 
