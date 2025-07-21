@@ -1,5 +1,5 @@
 ## Portfolio-Website v1 
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery. (This is old version, make sure to update with new site)
+Portfolio website built using HTML5, CSS3, JavaScript, and jQuery. (This is old version, make sure to update with new site, update gh, resume, lk)
 
 Note add projects - Electron, JS?
 
