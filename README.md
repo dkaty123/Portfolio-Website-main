@@ -3,6 +3,8 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery. (This is old 
 
 Note add projects - Electron, JS?
 
+delete repo
+
 <a href="https://dev-katyal.netlify.app" target="_blank">**Visit Now** 🚀</a>
 
 
